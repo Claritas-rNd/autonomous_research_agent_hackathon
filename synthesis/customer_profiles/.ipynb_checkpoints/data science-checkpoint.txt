@@ -1,0 +1,16 @@
+A senior data science leader advances the organization by converting data into strategic clarity for clients and internal teams. Their work ensures that targeting models are precise, identity resolution is accurate, and campaign measurement is trusted. Unlike engineering, which delivers systems, or product, which defines scope, data science defines truth—what works, for whom, and why.
+
+This role contributes through four specific objectives. First is targeting precision—designing models that identify the right consumers for each campaign, increasing conversion efficiency and reducing waste. Second is identity resolution—maintaining a scalable, accurate framework that connects individuals and households across channels. Third is measurement validity—developing statistical frameworks that attribute outcomes to marketing actions with confidence. Fourth is operational scalability—automating model pipelines and quality checks to support hundreds of clients without loss of accuracy.
+
+To meet these objectives, a senior data science leader performs focused, high-impact tasks:
+• Build and maintain predictive models that classify and score audiences based on demographic, behavioral, and contextual variables.
+• Refine and validate identity resolution algorithms, ensuring match rates and accuracy remain high across datasets.
+• Design attribution methodologies that isolate true campaign impact across online and offline touchpoints.
+• Analyze performance data from active campaigns to surface patterns, anomalies, or optimization opportunities.
+• Collaborate with engineering to deploy models and maintain training pipelines with fresh, reliable data.
+• Translate client business questions into analytical workstreams with measurable outputs.
+• Automate QA processes to detect data drift, model degradation, or pipeline failures before they affect outputs.
+• Prepare internal documentation and client-facing narratives that explain findings clearly and defensibly.
+• Run statistical tests to validate changes to targeting strategies or measurement frameworks.
+• Participate in roadmap planning to align future model development with emerging product needs.
+• These objectives ensure that every dollar spent through Claritas is targeted, measured, and validated—making data science a central driver of performance, client trust, and product differentiation.

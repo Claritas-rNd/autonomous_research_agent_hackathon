@@ -1,0 +1,25 @@
+# Output Specification: `multi_paragraph_summary`
+
+## Purpose
+This format is intended for users who need a more detailed but still digestible synthesis of findings. It is suitable for situations where the user must understand both the conclusion and the reasoning behind it—such as preparing internal recommendations, evaluating tradeoffs, or briefing stakeholders.
+
+## Format
+- 2 to 4 paragraphs, formatted in markdown
+- No bullet points, tables, or subheadings
+- Do not include references to the research process or the agent
+
+## Length
+- Target: 350–400 words
+- Maximum: 600 words
+
+## Style
+- Structured, fluent, and informative
+- The first paragraph should state the most important conclusion or insight
+- Subsequent paragraphs should provide supporting details, context, or nuance
+- Language and framing should align with the user’s role and business use case
+
+## Agent Behavior
+- Organize the content to support quick comprehension: lead with the answer, follow with justification
+- Emphasize insights that support the user’s business objective, not just factual accuracy
+- Integrate content from multiple sources when needed, but avoid redundancy
+- Tone and terminology should be adapted based on the customer profile

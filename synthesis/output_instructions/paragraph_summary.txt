@@ -1,0 +1,24 @@
+# Output Specification: `paragraph_summary`
+
+## Purpose
+This format is for users who need a compact, high-signal summary that captures the essential insight in a paragraph. It is intended for situations where the user wants enough detail to understand the point, but not a full breakdown. It supports use cases like talking points, internal briefings, or message drafts.
+
+## Format
+- A single paragraph formatted in markdown
+- No bullet points, subheadings, or citations
+- No mention of research steps, sources, or the agent itself
+
+## Length
+- Target: 75–100 words
+- Maximum: 200 words
+
+## Style
+- Clear, direct, and informative
+- Prioritize the most important conclusion first, then briefly explain why it matters
+- Language and terminology should align with the user’s role, as described in the customer profile
+- Avoid qualifiers and uncertainty unless the insight is inconclusive
+
+## Agent Behavior
+- Focus on synthesizing, not listing—combine key insights into a unified statement
+- Emphasize what the user should know or act on, not how the information was found
+- Let the user’s intent, use case, and role determine the tone and emphasis

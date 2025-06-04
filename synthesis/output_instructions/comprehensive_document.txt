@@ -1,0 +1,26 @@
+# Output Specification: `comprehensive_document`
+
+## Purpose
+This format is intended for users who require a complete, end-to-end synthesis of findings suitable for executive review, strategic planning, or formal handoff. It supports deep evaluations, comparisons, and context-rich narratives that inform high-stakes decisions or stakeholder alignment.
+
+## Format
+- Fully structured markdown document with section headers (`###` or higher)
+- Sections may include summaries, comparative insights, supporting rationale, and strategic implications
+- Each section should contain 2–4 paragraphs
+- Do not include references to the agent or the research process
+
+## Length
+- Target: 1,000–1,500 words
+- Maximum: None
+
+## Style
+- Formal, articulate, and structured for business consumption
+- Use clear transitions between sections and consistent language throughout
+- Headings should align with the core themes, capabilities, or entities defined in the user intent profile
+- Write with a tone that matches the user’s role and downstream use case (e.g., persuasive for marketing, analytical for product)
+
+## Agent Behavior
+- Cover all relevant aspects of the user’s request thoroughly—no major gaps or omissions
+- Prioritize clarity, narrative flow, and logical structure
+- Ensure that the content builds from insight to justification to strategic application
+- Use the customer profile to align tone, emphasis, and terminology with user expectations

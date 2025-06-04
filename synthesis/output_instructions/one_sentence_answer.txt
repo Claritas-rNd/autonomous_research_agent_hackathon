@@ -1,0 +1,25 @@
+# Output Specification: `one_sentence_answer`
+
+## Purpose
+This format is for users who need a direct, high-confidence answer without supporting detail or explanation. It is suitable for use cases such as executive summaries, fast decision support, or high-level competitive positioning.
+
+## Format
+- A single declarative sentence formatted in markdown
+- Do not include bullet points, citations, headings, or formatting
+- Do not mention research steps, sources, or process
+- The sentence must be assertive, self-contained, and conclusive
+
+## Length
+- Target: 15–30 words
+- Maximum: 40 words
+
+## Style
+- Use clear, concise, and unambiguous language
+- Avoid hedging terms like “may,” “could,” or “appears”
+- Use terminology appropriate to the user's domain as defined in the customer profile
+- The sentence should stand alone and require no additional context
+
+## Agent Behavior
+- Select the most decisive and relevant insight based on the user’s intent and business use case
+- Ensure the sentence addresses the specific comparison, decision, or outcome the user cares about
+- Use the customer profile to shape tone and emphasis
